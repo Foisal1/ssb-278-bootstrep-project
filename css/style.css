@@ -1,0 +1,33 @@
+.bar{
+	background-color: #afe0f1d9;
+}
+.bar h1{
+	color: #fff;
+    padding: 50px 0;
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 2px 2px 2px #000;
+}
+.sing-up{
+	    padding: 50px 0;
+}
+.btn{
+	letter-spacing:2px;
+	font-style: italic;
+}
+.m-auto{
+	font-size: 35px;
+    font-weight: 700;
+    color: #343a40;
+}
+.log-in .row{
+	height: 100vh;
+    align-items: center;
+}
+.log-in h3{
+	font-size: 40px;
+    font-weight: 700;
+}
+.pi{
+	font-style: italic;
+}
